@@ -1,0 +1,7 @@
+Weex_Category.xcodeproj/xcuserdata/
+Weex_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+Weex_Category.xcodeproj/project.xcworkspace/xcuserdata/
